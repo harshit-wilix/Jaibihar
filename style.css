@@ -15,7 +15,7 @@
 }
 
 *::selection{
-  background:var(--orange);
+  background:var(--purple);
   color:#fff;
 }
 
@@ -50,17 +50,17 @@ section{
 .btn{
   display: inline-block;
   margin-top: 1rem;
-  background:var(--orange);
+  background:var(--purple);
   color:#fff;
   padding:.8rem 3rem;
-  border:.2rem solid var(--orange);
+  border:.2rem solid var(--purple);
   cursor: pointer;
   font-size: 1.7rem;
 }
 
 .btn:hover{
   background:rgba(255, 165, 0,.2);
-  color:var(--orange);
+  color:var(--purple);
 }
 
 header{
@@ -82,7 +82,7 @@ header .logo{
 }
 
 header .logo span{
-  color:var(--orange);
+  color:var(--purple);
 }
 
 header .navbar a{
@@ -92,7 +92,7 @@ header .navbar a{
 }
 
 header .navbar a:hover{
-  color:var(--orange);
+  color:var(--purple);
 }
 
 header .icons i{
@@ -103,7 +103,7 @@ header .icons i{
 }
 
 header .icons i:hover{
-  color:var(--orange);
+  color:var(--purple);
 }
 
 header .search-bar-container{
@@ -139,7 +139,7 @@ header .search-bar-container label{
 }
 
 header .search-bar-container label:hover{
-  color:var(--orange);
+  color:var(--purple);
 }
 
 .login-form-container{
@@ -208,7 +208,7 @@ header .search-bar-container label:hover{
 }
 
 .login-form-container form p a{
-  color:var(--orange);
+  color:var(--purple);
 }
 
 .login-form-container form p a:hover{
@@ -289,7 +289,7 @@ header .search-bar-container label:hover{
 }
 
 .home .controls .vid-btn.active{
-  background:var(--orange);
+  background:var(--purple);
 }
 
 .book .row{
@@ -362,7 +362,7 @@ header .search-bar-container label:hover{
 }
 
 .packages .box-container .box .content h3 i{
-  color:var(--orange);
+  color:var(--purple);
 }
 
 .packages .box-container .box .content p{
@@ -373,7 +373,7 @@ header .search-bar-container label:hover{
 
 .packages .box-container .box .content .stars i{
   font-size:1.7rem;
-  color:var(--orange);
+  color:var(--purple);
 }
 
 .packages .box-container .box .content .price{
@@ -404,7 +404,7 @@ header .search-bar-container label:hover{
 .services .box-container .box i{
   padding:1rem;
   font-size: 5rem;
-  color:var(--orange);
+  color:var(--purple);
 }
 
 .services .box-container .box h3{
@@ -603,7 +603,7 @@ header .search-bar-container label:hover{
 }
 
 .footer .credit span{
-  color:var(--orange);
+  color:var(--purple);
 }
 
 
